@@ -1,0 +1,12 @@
+
+.Ipad_text
+{
+    color:#000;
+}
+@media (max-width:991px)  
+{
+    .PageContent_Container
+{
+    margin-top:0px;
+}
+}
